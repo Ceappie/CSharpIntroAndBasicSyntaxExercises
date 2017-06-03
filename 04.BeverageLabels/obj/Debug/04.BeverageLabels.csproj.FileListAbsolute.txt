@@ -1,0 +1,5 @@
+C:\Projects\ProgrammingFundamendalsExtendedMay2017\CSharpIntroAndBasicSyntaxExercises\04.BeverageLabels\bin\Debug\04.BeverageLabels.exe.config
+C:\Projects\ProgrammingFundamendalsExtendedMay2017\CSharpIntroAndBasicSyntaxExercises\04.BeverageLabels\bin\Debug\04.BeverageLabels.exe
+C:\Projects\ProgrammingFundamendalsExtendedMay2017\CSharpIntroAndBasicSyntaxExercises\04.BeverageLabels\bin\Debug\04.BeverageLabels.pdb
+C:\Projects\ProgrammingFundamendalsExtendedMay2017\CSharpIntroAndBasicSyntaxExercises\04.BeverageLabels\obj\Debug\04.BeverageLabels.exe
+C:\Projects\ProgrammingFundamendalsExtendedMay2017\CSharpIntroAndBasicSyntaxExercises\04.BeverageLabels\obj\Debug\04.BeverageLabels.pdb

@@ -1,0 +1,6 @@
+C:\Users\SoftUni\AppData\Local\Temporary Projects\CSharpIntroAndBasicSyntaxExercises\bin\Debug\CSharpIntroAndBasicSyntaxExercises.exe.config
+C:\Users\SoftUni\AppData\Local\Temporary Projects\CSharpIntroAndBasicSyntaxExercises\bin\Debug\CSharpIntroAndBasicSyntaxExercises.exe
+C:\Users\SoftUni\AppData\Local\Temporary Projects\CSharpIntroAndBasicSyntaxExercises\bin\Debug\CSharpIntroAndBasicSyntaxExercises.pdb
+C:\Users\SoftUni\AppData\Local\Temporary Projects\CSharpIntroAndBasicSyntaxExercises\obj\Debug\01.DebitCardNumber.csprojResolveAssemblyReference.cache
+C:\Users\SoftUni\AppData\Local\Temporary Projects\CSharpIntroAndBasicSyntaxExercises\obj\Debug\CSharpIntroAndBasicSyntaxExercises.exe
+C:\Users\SoftUni\AppData\Local\Temporary Projects\CSharpIntroAndBasicSyntaxExercises\obj\Debug\CSharpIntroAndBasicSyntaxExercises.pdb
